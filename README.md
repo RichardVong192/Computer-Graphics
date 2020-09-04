@@ -1,2 +1,2 @@
 # Cosc363 - Computer Graphics
-Git repo for Cosc363_2020_S1
+Repo for computer graphics using OpenGL and C++
